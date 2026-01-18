@@ -13,3 +13,10 @@ This template should help get you started developing with Tauri, React and Types
 # How to build it
 - on desktop: `bun run tauri build`
 - on android: `bun tauri android build -t aarch64 #moderne Architektur, beispielsweise ARMv8`
+
+# Screenshots
+- Disconnected:
+![disconnected](https://github.com/Big-Smarty/gps-collar-app/blob/main/assets/disconnected.jpg)
+
+- Connected:
+![connected](https://github.com/Big-Smarty/gps-collar-app/blob/main/assets/connected.jpg)
